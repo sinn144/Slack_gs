@@ -1,1 +1,12 @@
 maxresdefault.jpg
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.exe
+*.jpg
+*.png
+*.eps
+*.log
+*.avi
+*.dvi
+*.txt
+*.csv
+#txt,csvœŠO‚Ífprintf‚Ì–³‹‚Ì‚½‚ß
